@@ -1,4 +1,0 @@
-One of the most significant IoT projects in Vietnam is the Smart Agriculture Monitoring System in the Mekong Delta region. The system uses data analytics and sensors to monitor environmental factors like water levels, soil moisture, and temperature in real time. The system helps farmers produce crops more efficiently—especially rice and pangasius (catfish), the region's major exports.
-Upsides: Promoting eco-friendly farming. Farmers can check farm conditions from their phones, saving time and labor.
-Downsides: High cost, high maintenance.
-Privacy: Minimal as doesn't require personal data.
