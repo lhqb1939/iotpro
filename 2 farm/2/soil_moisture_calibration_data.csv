@@ -1,0 +1,4 @@
+sensor_reading,wet_weight_g,dry_weight_g,moisture_percent
+350,220,200,10.0
+600,195,180,8.333333333333332
+850,180,170,5.88235294117647

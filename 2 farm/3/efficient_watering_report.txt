@@ -1,0 +1,17 @@
+
+This report simulates fixed water input (e.g., pump time in seconds) and its effect on soil moisture readings.
+
+
+ Pump Time (s)  Sensor Reading  Decrease
+             0             643         0
+             1             621        22
+             2             601        20
+             3             579        22
+             4             560        19
+             5             539        21
+             6             521        18
+
+**Average decrease in sensor reading per second of watering**: 20.33
+
+This value can be used in the server code to estimate how long the pump should run to reach a target soil moisture level.
+For example, if the desired decrease is 60 units, the pump should run for approximately 2.95 seconds.
